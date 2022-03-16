@@ -1,0 +1,22 @@
+.label {
+    margin-bottom: 1rem;
+    font-weight: 600;
+  }
+  .input-group {
+    margin-bottom: 0rem;
+    /* border: 1px solid green; */
+    margin-right: 700px;
+    /* padding: 1ch; */
+    border-radius: 2ch;
+    align-items: start;
+  }
+  .label-range {
+    margin-bottom: 2.5rem;
+  }
+  .filter-label{
+    
+  }
+
+  .makeStyles-root-3 {
+    justify-content: center;
+  }
